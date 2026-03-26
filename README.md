@@ -16,4 +16,5 @@ Projeto simples desenvolvido para praticar Excel básico.
 - Organização de dados
 - Criação de gráficos
 
-## 📷 Preview <img width="1342" height="1088" alt="image" src="https://github.com/user-attachments/assets/f1b2a179-b92d-48aa-bb40-303f4b8d6827" />
+## 📷 Preview <img width="893" height="675" alt="image" src="https://github.com/user-attachments/assets/351056b9-a489-476f-b041-60cbb374b631" />
+
